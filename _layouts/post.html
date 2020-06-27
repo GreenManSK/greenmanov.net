@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="blog-entry-content">
+    {% if page.image %}
+    <a title="{{page.title}}" href="{{page.imagelink}}">
+        <img class="main-img"  alt="{{page.title}}" src="{{page.image}}" />
+    </a>
+    {% endif %}
+    {{ content }}
+    <div class="blog-entry-footer">
+        <p>
+            <span class="date"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ page.date | date: '%d %b %Y' }}</span>
+            <span class="category"><i class="fa fa-folder" aria-hidden="true"></i> {{ page.category }}</span>
+            <span class="tags"><i class="fa fa-tags" aria-hidden="true"></i> {% for tag in site.tags %} {{ tag.first }} {% endfor %}</span>
+        </p>
+    </div>
+</div>

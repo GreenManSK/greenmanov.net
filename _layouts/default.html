@@ -18,7 +18,8 @@
     <meta name="theme-color" content="#87C232">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -40,7 +41,13 @@
       <h1>{{ page.title  }}</h1>
       {% endif %}
 
-      {{ content }}
+      {% if page.title  %}
+      <article>
+        {{ content }}
+      </article>
+      {% else %}
+        {{ content }}
+      {% endif %}
 
       <footer class="site-footer">
         <a target="_blank" id="anidb" href="https://sig.anidb.net/redirect/30018/0j6a5/" title="GreenManSK"><img alt="GreenManSK" src="https://sig.anidb.net/images/signatures/30018/0j6a5/" /></a>

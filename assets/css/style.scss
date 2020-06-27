@@ -75,6 +75,38 @@ main.main-content {
   h1 {
     color: $primary-color;
   }
+
+  article {
+    .blog-entry-content {
+      p {
+        text-align: justify;
+
+        img {
+          display: inline-block;
+        }
+      }
+
+      img {
+        border: 1px solid #000;
+      }
+
+      img.main-img {
+        float: left;
+        margin-right: 1rem;
+      }
+    }
+
+    .blog-entry-footer {
+      clear: both;
+
+      span {
+        margin-right: .5rem;
+        i {
+          color: $primary-color;
+        }
+      }
+    }
+  }
 }
 
 nav.pagination {
