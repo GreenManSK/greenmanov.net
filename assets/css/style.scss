@@ -1,0 +1,98 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$primary-color: #87C232;
+$background-color: #222629;
+$background-lighter-color: #474A4F;
+$text-color: #fff;
+
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+body {
+  background: $background-color;
+  color: $text-color;
+}
+
+.page-header {
+  background: $primary-color;
+  font-family: "Arial Black", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+  padding: 0;
+
+  a {
+    color: $background-color;
+
+    &:hover, &:focus, &:active {
+      color: $background-lighter-color;
+      text-decoration: none;
+    }
+  }
+
+  .project-name {
+    margin: 0 auto;
+
+    @include large {
+      max-width: 64rem;
+      padding: 1rem 6rem;
+    }
+
+    @include medium {
+      padding: .5rem 4rem;
+    }
+
+    @include small {
+      padding: .2rem 1rem;
+    }
+  }
+}
+
+main.main-content {
+  a {
+    color: $primary-color;
+  }
+
+  h1 {
+    color: $primary-color;
+  }
+}
+
+nav.pagination {
+  display: flex;
+  justify-content: space-between;
+
+  div {
+    width: 50%;
+    text-align: left;
+    flex: 0 0 auto;
+  }
+
+  div + div {
+    text-align: right;
+  }
+}
+
+footer.site-footer {
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
