@@ -8,8 +8,8 @@ layout: default
     </div>
     <div class="blog-entry-content">
         {% if page.image %}
-        <a title="{{page.title}}" href="{{page.imagelink}}">
-            <img class="main-img" alt="{{page.title}}" src="{{page.image}}"/>
+        <a title="{{page.title}}" href="{{ site.baseurl }}{{page.imagelink}}">
+            <img class="main-img" alt="{{page.title}}" src="{{ site.baseurl }}{{page.image}}"/>
         </a>
         {% endif %}
         {{ content }}
