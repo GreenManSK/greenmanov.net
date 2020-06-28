@@ -29,16 +29,16 @@ layout: default
 <nav class="pagination">
   <div>
     {% if paginator.previous_page_path %}
-      <a href="{{ paginator.previous_page_path }}">&lsaquo; previous page</a>
+      <a href="{{ paginator.previous_page_path }}">&lsaquo; Novšie články</a>
     {% else %}
-      <span class="inactive-link">&lsaquo; previous page</span>
+      <span class="inactive-link">&lsaquo; Novšie články</span>
     {% endif %}
   </div>
   <div>
     {% if paginator.next_page_path %}
-      <a href="{{ paginator.next_page_path }}">next page &rsaquo;</a>
+      <a href="{{ paginator.next_page_path }}">Staršie články &rsaquo;</a>
     {% else %}
-      <span class="inactive-link">next page &rsaquo;</span>
+      <span class="inactive-link">Staršie články &rsaquo;</span>
     {% endif %}
   </div>
 </nav>
