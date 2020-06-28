@@ -81,6 +81,11 @@ main.main-content {
     color: $primary-color;
   }
 
+  #youtube-player {
+    display: block;
+    margin: 0 auto;
+  }
+
   article {
     .blog-entry-content {
       p {
