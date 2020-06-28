@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Mike Inel"
+date: 2011-08-30 08:08:00 +0200
+permalink: /2011/mike-inel/
+category: "Grafika, Hry"
+tags: deIz, Draw with Me, How, Mike Inel, Vizuálne novely, Where, Which, Why
+image: /assets/img/2011/mikeinel.jpg
+imagelink: /assets/img/2011/mikeinel.jpg
+---
+Tak zas po nejakej dobe som sa rozhodol sem napísať článok, tento raz konečne o tvorbe Mika Inela. Rozhodol som sa vďaka tomu, že v nedeľu konečne vyšla jeho prvá vizuálna novela a tá ma tak chytila, že som nemohol o nej nenapísať. A keď už píšem o nej, prečo nie o všetkom? Takže sa prijemne usaďte do svojich hojdacích kresiel, pustite si svoju obľúbenú pesničku z Osu! a začnite čítať.
+
+Mike Inel je 23 ročný grafik a herný vývojár. Je jeden z málo ľudí ktorých viem zaradiť k hrám ktoré vytvorili.(Okrem neho asi len Notch, ľudia z LS a pár ľudí z VCH) Prečo som si ho tak obľúbil? Možno preto že je práve grafik a herný vývojár, ako z časti ja(ja viem že nie som ani jedno). Možno vďaka jeho tvorbe a možno preto že je tak trochu „iný“ a cítim s ním určité spojenie. Ale najskôr to bude všetko naraz. Na jeho tvorbe je zaujímavé že takmer nie je veselá, je skôr dosť depresívna. Či už hry, obrázky alebo animácie väčšinou máte po ich zhliadnutí taký divný pocit prázdnoty a toho, že ste niečo urobili zle. Rád by som vedel prečo sa z neho stal niekto takýto. Tak a teraz rozoberiem jeho tvorbu podrobnejšie.
+
+## Animácie
+Začnem animáciami pretože jedna z jeho animácií, skôr krátky film ma veľmi zaujal myšlienkov. Ide o krátky film s názvom Draw with Me. Je to príbeh o dvoch postavách(nemôžem povedať ľuďoch keďže majú chvost a uši, ona je mačka, ale čo je on netuším), chlapcovi a dievčati, ktorých oddeľuje sklo cez ktoré sa spolu nemôžu rozprávať. A tak chlapca napadne že by si na neho mohli kresliť a rozprávať sa tak. Takto to pokračuje až to chlapec nevydrží a pokúsi sa sklo rozbiť… Ďalej vám príbeh hovoriť nebudem aby som vám neskazil zážitok, pozrite si to sami. Doporučujem si potom stiahnuť sj [prvú verziu](http://mikeinel.deviantart.com/art/Draw-With-Me-116362642) s hudbou od Ai Otsuky, ktorá sa mi k tomu hodí viac.
+
+{% include youtubePlayer.html id="DRkgH7Uu-hA" %}
+
+## Obrázky
+Jeho tvorbu si môžete prezrieť v [jeho galérii](http://mikeinel.deviantart.com/gallery/) na deviantARTe.  Názor na ne si môže utvoriť každý sám, ale mňa inšpirovali natoľko, že som si povedal: „Raz tak budeš kresliť aj ty, aj keby ti to malo trvať celý život! Aj keby ten život mal byť tvoj!“ V jeho tvorbe nájdete od úchylných vecí až po už spomenuté depresívne. Pár jeho diel mi krásne zdobí plochu. Viac o tom hovoriť nejdem, pretože vykecávanie o obrázkoch mi zhnusilo to že niekto vie rozprávať hodiny o troch machuľách a dvoch čiarach, ktoré či chcete alebo nie, sú furt len tri machuľe a dve čiary.
+
+## Hry
+Hry som si nechal nakoniec, keďže všetci majú radi veci s ktorými sa môžu zabávať. Aj keď pri jeho hrách nejde ani tak o zábavu ako o ten zážitok z hrania, pretože nie vždy je tá hra práve zábavná, nie preto že by bola zlá, ale preto čo sa v nej deje. Zaujímavé že všetky hry až na poslednú obsahujú v názve len jedno zámeno.
+
+### How
+V prvej hre ide o to, dostať čo najviac lôpt do studne behom 5 minút. A ako už napovedá názov, treba prísť na to ako. Táto hra bohužiaľ neobsahuje hudbu, ale grafika, aj keď je jej málo, je prepracovaná a pekná. Máloktorá hra napríklad na [VCH](http://www.forum.velkejchytrak.cz/) má tak prepracovanú animáciu hlavnej postavy.
+
+### Where
+Moja najobľúbenejšia z týchto hier so zámenom v názve. Ide o to nájsť balónik v bludisku, zaujímavé na tom je to, že to nie je jedno bludisko, ale štyri spojené bludiská a musíte sa posnažiť aby ste našli správnu cestu medzi všetkými bludiskami naraz. Hudba sa mi tak zapáčila, že si ju púšťam k hrám bez hudby.
+
+[![Where](/assets/img/2011/where-300x227.jpg)](/assets/img/2011/where.jpg)
+
+### Why
+Tu ide o to zmeniť čierne kruhy na biele, celkovo je princíp hry jednoduchý a samo o sebe je to hra celkom o ničom. Lenže tu za úspechy získavať obrázky ktoré majú vždy nejakú hlbšiu myšlienku, dokopy je ich 10(ak to budete hrať, bude sa vám to hodiť ja som najprv netušil koľko ich môžem získať). Polovicu z nich mám práve na pozadí. 🙂
+
+### Which
+Hororová hra z pohľadu 1. osoby v ktorej sa snažíte dostať zo zamknutého domu. To ale nie je tak ľahké, kľúč má totiž pri sebe jedno dievča. Problém je v tom že dievča je mŕtve a kľúč vám len tak dať nechce. Musíte prísť na to ako ho od nej získať tak aby vás pustila von. A ako uvidíte môže to byť väčší problém ako sa na prvý pohľad zdá.
+
+### deIz
+A nakoniec posledná hra pri ktorej som strávil najviac času. Táto vizuálna novela že som bol viac hlavná postava, ako úchych čo kliká v tme a hrá hru v ktorej sa mu páči žiť viac ako v realite. Z toho ma bohužiaľ jedna postava celkom tvrdo dostala, ale nechcem spojlerovať. Grafika je podľa mňa krása a postavy vypadajú veľmi dobre. Škoda len, že chýba hudba, ale tú v mojom prípade nahradila hudba z Where. 🙂
+
+[![deIz](/assets/img/2011/screenshot0001-300x225.jpg)](/assets/img/2011/screenshot0001.jpg)
+
+Všetky tieto hry môžete stiahnuť z [jeho profilu](http://gamejolt.com/profile/mike-inel/1939/) na Game Jolt. To by bolo na dnes všetko. Dúfam že vás tento článok neodradil trvalo od čítania môjho webu. Green. 😀

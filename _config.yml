@@ -1,12 +1,12 @@
 title: GreenManov.net
 description: >-
   Stránka génia s vážnou psychickou poruchou
-baseurl: "/greenmanov.net/" # the subpath of your site, e.g. /blog
+baseurl: "" #"/greenmanov.net/" # the subpath of your site, e.g. /blog
 url: "https://greenmansk.github.io/greenmanov.net/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: sk-SK
 google_analytics: UA-18106641-3
 
-paginate: 5
+paginate: 6
 paginate_path: /page/:num
 
 sass:
