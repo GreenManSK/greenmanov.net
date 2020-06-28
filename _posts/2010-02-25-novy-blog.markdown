@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Nový blog"
+date:   2010-02-25 03:50:00 +0200
+permalink: /2010/novy-blog/
+category: "Môj svet"
+tags: blog, tvorba webov
+comments: novy-blog
+---
+Dnešným dňom slávnostne vyhlasujem že bol vytvorený ďalší blog, na ktorom autor píše blbosti čo ho napadli na záchode. Áno je to tak ako si myslíte, mám blog. 🙂
+
+Je to už dlhšie čo ma Satik64 začal presviedčať aby som si spravil blog. Časom som si ho chcel urobiť ale vždy bol nejaký problém. Blogové služby na internete mi nevyhovovali a WordPress proste nemám rád. Ale v decembri minulého roka nastal zlom. Vytvoril som pre Satika64 redakčný systém Green-PHP mini 1.0b, ktorý som postupne vylepšoval a nedávno som ho dorobil tak aby bol schopný spravovať celý web. A tak som si ten blog urobil.
+
+Hotový je už od nedele, ale nebol som doma. Včera som ho nahodil a opravil chyby o ktorých som zas nevedel. 😀 Teraz sa snažím dať doňho nejaký obsah aby to nebol len prázdny web. A jeho spustením si dávam týždenný oddych od webov a grafiky a budem sa plne venovať svojmu WoW. 😀
+
+Na dnes je to už všetko. Nehanbite sa pridať komentár, alebo začať odoberať RSS kanál.

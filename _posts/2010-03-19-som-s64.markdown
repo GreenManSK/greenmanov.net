@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Som s64"
+date:   2010-03-19 08:08:00 +0200
+permalink: /2010/som-s64/
+category: "Experimenty"
+tags: experiment, samovražda, závislosť
+comments: som-s64
+---
+Dnes slávnostne vyhlasujem že môj experiment skončil predčasne. Vydržalo som 112 hodín a 39 minút. Nebiť javascriptu vydržím celý týždeň. Postupne napíšem prečo som s experimentom začal, ako postupoval, záver a nejaké veci mimo hlavnej témy.
+
+Dôvod: Z mojich záznamov vyplynulo že za posledné 4 mesiace som strávil polovicu života za PC. A vďaka tomu som sa rozhodol že sa pokúsim zistiť či som závislí alebo len nemám čo robiť. A tak som sa rozhodol že si dám týždenný oddych od PC.
+
+Postup: Veľmi som si sľúbený denník nepísal aj keď som mal plno času, ale dosť si toho pamätám. Postupne vám tu každý deň rozpíšem.
+
+Pondelok: Prvý deň experimentu bol dosť divný. Celý deň som to v sebe v podstate zapieral. Rozmýšľal som ako vždy čo budem doma robiť aký diel seriálu na PC si pustím, čo naprogramujem, atď… Keď som prišiel domov pár krát som chcel zapnúť PC, ale bez zdroja zapojeného v elektrine to proste nejde. 🙂 Keďže na ďalší deň sme mali ísť zo školou do kina, od nudy som sa naučil skoro všetko na stredu. A potom som si vymyslel novú zábavku namiesto PC. Nazval som ju spánok. 😀
+
+Utorok: V utorok sa môj experiment zmenil na odvikačku. Plno kontaktov s PC, vybranie knihy o JávaSkripte, atď… Najzvláštnejšie ale bolo že chuť na PC sa zvyšovala v prítomnosti ľudí. Keď som prišiel domov do kľudu chuť na PC ma prešla.
+
+Streda: Tento deň bol kľudný. Zasa strávený spánkom a tento raz učením na piatok . 😀 Zvláštne je že ma prvý krát za život bavila telesná. Neviem prečo, ale pre mňa je pravdepodobne programovanie tak adrenalínový šport že mi pri tom netreba žiaden iný a pri inom športe je to potom na mňa veľa. Znie to blbo, ale bez PC sa podla mojej teórie dá prispôsobiť buď normálu alebo sa zblázniť ešte viac. Mňa postihol druhý prípad a preto aj také blbé myšlienky.
+
+Štvrtok: Rozhodol som sa, že si svoju vytúženú knihu o JávaSkripte kúpim. Čiže od 5:40 som sa tešil na to až pekne vojdem do kníhkupectva schmatnem ju, vybehnem s ňou von, zapne sa alarm a potom ju zaplatím. 😀 Nakoniec to bola blbosť pretože úvod som si prečítal za 5 minút, a potom som niekoľko hodín trpel že sa to nemôžem učiť.
+
+Piatok: Už ráno mi došlo že čakať do pondelka je proste zbytočnosť. Vedel som závery výskumu a JávaSkript je JávaSkript. Veď kto(psychicky narušený) by odolal knihe o JávaSkripte? Samozrejme nik. Čiže ani veľký GreenMan(JA) tiež nie. 🙁
+
+Záver: Vydržal som 112 hodín a 39 minút bez PC. Je mi jasné že závislosť a nuda sú u mňa vzájomne prepojené a nerozpojiteľné. Aj keď som za toto obdobie nebol ani v najmenšom strese a nebál som sa ani trocha školy(Tak to dopadá keď som naučený na 3 dni dopredu :-D). Ale znova to zopakovať neplánujem. Určite sa pokúsim dennú dobu za PC obmedziť ale najviac tak o 30 minút. Keď sa raz budem chcieť stať normálnym určite kábel z elektriny od PC rozrežem a podpálim kvôli odvykačke.
+
+Ale teraz k tomu najlepšiemu. Idem sa učiť Jáva a k tomu ešte aj Skript. Čiže o zábavu postarané mám. Kúpil som si knihu [Začínáme s JavaScriptem](https://www.zonerpress.cz/zaciname-s-javascriptem). V preklade som už našiel nejaké chyby a aj v kóde už som vydeľ minimálne jednu chybu. Ale ešte som len začal čítať a kniha je napísaná aj s určitým vtipom. Keď ju dočítam určite napíšem nejakú aspoň minirecenziu. Tak a na dnes je to všetko.

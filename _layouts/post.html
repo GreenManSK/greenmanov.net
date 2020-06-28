@@ -17,11 +17,14 @@ layout: default
             <p>
                 <span class="date"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ page.date | date: '%d %b %Y' }}</span>
                 <span class="category"><i class="fa fa-folder" aria-hidden="true"></i> {{ page.category }}</span>
-                <span class="tags"><i class="fa fa-tags" aria-hidden="true"></i> {% for tag in page.tags %} {{ tag }} {% endfor %}</span>
+                {% if page.tags %}
+                    <span class="tags"><i class="fa fa-tags" aria-hidden="true"></i> {% for tag in page.tags %} {{ tag }} {% endfor %}</span>
+                {% endif %}
             </p>
         </div>
     </div>
 </article>
+{% if page.comments %}
 <hr>
 <section>
     <h2>Komentáre</h2>
@@ -42,3 +45,4 @@ layout: default
         {% endfor %}
     </ol>
 </section>
+{% endif %}

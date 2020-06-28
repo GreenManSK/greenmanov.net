@@ -1,13 +1,54 @@
-bezspankove-sialenstvo:
-  - name: Karlos
-    avatar: https://secure.gravatar.com/avatar/58c7a2bfbba70bc48ac4b9159d199dc7?s=60&d=mm&r=x
-    comment: "moc pěkný čtení takhle po ránu, vlastně jako vždycky 😉 měl bys psát častějc 🙂<br>jen tak mimochodem, nejseš ty nakonec ve skutečnosti Greenwomen? 😀"
-    date: 2014-01-25 08:42:00 +0200
-  - name: Karlos
-    avatar: https://secure.gravatar.com/avatar/58c7a2bfbba70bc48ac4b9159d199dc7?s=60&d=mm&r=x
-    comment: "moc pěkný čtení takhle po ránu, vlastně jako vždycky 😉 měl bys psát častějc 🙂<br>jen tak mimochodem, nejseš ty nakonec ve skutečnosti Greenwomen? 😀"
-    date: 2014-01-25 08:42:00 +0200
-  - name: Karlos
-    avatar: https://secure.gravatar.com/avatar/58c7a2bfbba70bc48ac4b9159d199dc7?s=60&d=mm&r=x
-    comment: "moc pěkný čtení takhle po ránu, vlastně jako vždycky 😉 měl bys psát častějc 🙂<br>jen tak mimochodem, nejseš ty nakonec ve skutečnosti Greenwomen? 😀"
-    date: 2014-01-25 08:42:00 +0200
+novy-blog:
+  - name: jackm
+    avatar: https://secure.gravatar.com/avatar/59d5de499b365d3a09dc3960e3dbcc8d?s=60&d=mm&r=x
+    comment: "Konečně!!GRÝN super vzhled 😉 😀"
+    date: 2010-02-25 15:26:00 +0200
+  - name: Satik64
+    avatar: https://secure.gravatar.com/avatar/713ab11928202899a2fce1ef8aaa1ec9?s=60&d=mm&r=x
+    comment: "Vzhled je super, zatím se mě zdá nejlepší z Green-PHP tvorby"
+    date: 2010-02-25 22:12:00 +0200
+vector-vector-a-trocha-web:
+  - name: Honzas4400
+    avatar: https://secure.gravatar.com/avatar/0c933042a2e26ab9f4ef0c4c1048f21f?s=60&d=mm&r=x
+    comment: "Gratuluji ti k vítězství, ó pane! 😎"
+    date: 2010-03-03 20:57:00 +0200
+  - name: jackm
+    avatar: https://secure.gravatar.com/avatar/59d5de499b365d3a09dc3960e3dbcc8d?s=60&d=mm&r=x
+    comment: "Hezkej obrázek…."
+    date: 2010-03-03 21:35:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Diky 😀 ale aj tak to je o ničom oproti tým najlepším."
+    date: 2010-03-03 22:09:00 +0200
+samovrazda:
+  - name: Aper
+    avatar: https://secure.gravatar.com/avatar/0cd96e1afc15fe0ae7be12f6f93d7066?s=60&d=mm&r=x
+    comment: "to nedáš 😀"
+    date: 2010-03-14 19:24:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Tiež si myslím(aj mislím) ale každú blbosť treba skúsiť. 😀"
+    date: 2010-03-14 19:28:00 +0200
+  - name: jackm
+    avatar: https://secure.gravatar.com/avatar/59d5de499b365d3a09dc3960e3dbcc8d?s=60&d=mm&r=x
+    comment: "green dá všetko 😀"
+    date: 2010-03-14 19:34:00 +0200
+som-s64:
+  - name: Aper
+    avatar: https://secure.gravatar.com/avatar/0cd96e1afc15fe0ae7be12f6f93d7066?s=60&d=mm&r=x
+    comment: "Vravel som 😀"
+    date: 2010-03-21 13:45:00 +0200
+  - name: Honzas4400
+    avatar: https://secure.gravatar.com/avatar/0c933042a2e26ab9f4ef0c4c1048f21f?s=60&d=mm&r=x
+    comment: "Ty si prostě best Greene! já bych nevydžel ani minutu 😀 Gratuluju 😀"
+    date: 2010-03-21 19:13:00 +0200
+zajbat-ic-je-malo:
+  - name: jackm
+    avatar: https://secure.gravatar.com/avatar/59d5de499b365d3a09dc3960e3dbcc8d?s=60&d=mm&r=x
+    comment: "Konečně článek jsem tu byl včera a nic jsem se divil.. 😀"
+    date: 2010-03-25 19:38:00 +0200
+  - name: Aper
+    avatar: https://secure.gravatar.com/avatar/0cd96e1afc15fe0ae7be12f6f93d7066?s=60&d=mm&r=x
+    comment: "ale ved aj ja sui to tu precitam ked sa fakt nudim 😀"
+    date: 2010-03-21 20:50:00 +0200
+
