@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The Guild – dokonalý webový seriál"
+date:   2011-03-15 08:08:00 +0200
+permalink: /2011/the-guild-–-dokonaly-webovy-serial/
+category: "Seriály"
+tags: MMORPG, The Guild, WoW
+image: /assets/img/2011/the_guild_cast-300x225.jpg
+imagelink: /assets/img/2011/the_guild_cast.jpg
+---
+Aké by to bolo byť hráč ktorý je celé dni zavretý doma v izbe bez prístupu svetla len s jeho jediným kamarátom, počítačom, a pár kamarátmi ktorých pozná len ako nicky(prezývky) na nejakom messengery(Skype, ICQ a pod.)? Ak ste pravidelný čitateľ tohto blogu(ja a vy dvaja čo to jediný čítate) tak to viete a nemusíte si to predstavovať. Ale ak pravidelný čitateľ nie ste a chcete si to predstaviť tak tento seriál vám k tomu pomôže.
+
+Seriál sa točí okolo skupinky hráčov MMORPG \[Massively-Multiplayer Online Role-Playing(veď hádam viete čo to je)], guildy Rytieri Dobra(Knights of the Good). Nezamestnaná, trošku bláznivá, Codex, Zaboo ktorý nevie pochopiť rozdiel medzi zdvorilosťou a návrhom na vzťah, asociálny Vork ktorý urobí všetko aby ušetril aj posledný cent(v podstate je to moje budúce ja), úchylný teenager Bladezz, nezodpovedná matka ktorá uprednostňuje hranie pred rodinou, Clara a nakoniec Tinkerballa(Tink) ktorá nechce aby niekto vedel čo je v realite zač.
+
+Celé to začína tým že si Zaboo zle vysvetlí mrkajúceho smajlíka (😉) a príde za Codex osobne pretože si myslí že spolu chodia. A keďže Codex nevie čo robiť, pár minút predtým ako Zaboo prišiel ju opustila jej psychiatrička, tak sa pokúsi zvolať stretnutie celej guildy na reálnom mieste v reálnom svete(písal som že je bláznivá). A takto to celé začína.
+
+Málokedy sa smejem na seriály a ešte menej nahlas ale pri The Guild sa smejem stále. Tento seriál pobaví aj keď je dosť krátky, najskôr 4 minúty jeden diel neskôr sa to pretiahne na 7. Seriál má zatiaľ 4 série a podľa toho čo som čítal by v lete mala vyjsť 5. séria. Taktiež je už niekoľko komixov 3 o tom ako sa Codex dostala k hraniu a zajtra má vyjsť ďalší o Tink. Pozerať môžete buď na [www.watchtheguild.com](http://watchtheguild.com/) alebo ak nie ste anglicky zdatný tak s titulkami na [www.videacesky.cz/serialy/the-guild](http://www.videacesky.cz/serialy/the-guild).
+
+K seriálu boli vydané aj dva hudobné videoklipy Do you wanna date my avatar a Game on.
+
+{% include youtubePlayer.html id="xMrN3Rh55uM" %}
+
+Rozmýšľal som o tom že by som aspoň komixy preložil ale nechcem nič sľubovať keďže s prekladaním je robota a mne sa nikdy nechce robiť niečo čo nemám hotové za päť minút. A nezabudnite zdielať tento článok, chcem veľkú návštevnosť a veľa čitateľov. 😀
