@@ -3,7 +3,7 @@ layout: post
 title:  "Cool URL bez mod_rewrite"
 date:   2011-06-05 08:08:00 +0200
 permalink: /2011/cool-url-bez-mod_rewrite/
-category: "Tvorba webov "
+category: "Tvorba webov"
 tags: cool url, mod_rewrite, php, tvorba webov
 ---
 S problémom hostingu, kde nie je mod_rewrite povolený, som sa stretol už dávno. A jeden z nich je aj IC.cz, na ktorom hostujem ja. Pred mesiacom som si kúpil knihu [1001 Tipů a triků pro PHP](http://knihy.cpress.cz/1001-tipu-a-triku-pro-php.html) od [Jakuba Vrány](http://www.vrana.cz/) a tam som sa dočítal o teoretickom postupe ako mať na stránke Cool URL aj bez mod_rewrite. A tak som sa rozhodol si pre to napísať knižnicu v PHP a poskytnúť ju svetu.

@@ -39,7 +39,7 @@ body {
   background: $primary-color;
   background-image: linear-gradient(30deg, $primary-color, $secondary-color);
   border-bottom: 1px solid $secondary-color;
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.3);
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .3);
   font-family: "Arial Black", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
   padding: 0;
@@ -79,6 +79,12 @@ main.main-content {
 
   h1, h2, h3, h4, h5, h6 {
     color: $primary-color;
+    a {
+      text-decoration: underline;
+      &:hover, &:focus {
+        text-decoration: none;
+      }
+    }
   }
 
   #youtube-player {
@@ -101,9 +107,14 @@ main.main-content {
         border: 1px solid #000;
       }
 
+      img[src$=".png"] {
+        border: none;
+      }
+
       img.main-img {
         float: left;
         margin-right: 1rem;
+        margin-bottom: 1rem;
       }
     }
 
@@ -112,6 +123,7 @@ main.main-content {
 
       span {
         margin-right: .5rem;
+
         i {
           color: $primary-color;
         }
@@ -148,6 +160,7 @@ main.main-content {
       width: 10rem;
       text-align: center;
       float: left;
+      padding: 0 .5rem;
 
       img {
         border: 1px solid #000;

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Duševný výlev"
+date: 2011-07-13 08:08:00 +0200
+permalink: /2011/dusevny-vylev/
+category: "Môj svet"
+tags: bug v programe, duševný výlev
+comments: dusevny-vylev
+---
+Tak po dlhšej dobe som sa rozhodol napísať článok viac filozofický, bez akejkoľvek informačnej hodnoty. Bude pravdepodobne plný pravopisných chýb a nezmyslov, keďže by som ho pravdepodobne celý zmazal hneď po tom ako by som si ho prečítal. Preto sa za ne dopredu ospravedlňujem.
+
+Tak o čo pôjde? Už od mala som samotár. Začalo to tým že keď som bol malý som bol až priveľmi chorľavý, a tak som býval často doma a nie niekde v kolektíve, ako napríklad v škôlke. Súrodencov som tiež nemal takže som sa naučil zabávať sám. A týmto to pravdepodobne všetko začalo. Keď som mal 7 rokov už nebola iná možnosť a ja som musel začať chodiť do školy.(Ak si myslíte že normálne je ísť, keď máte 6 rokov, máte pravdu. Ja som mal vďaka zdravotnému stavu ešte rok pokoj. :-D) A presne v momente keď som vstúpil do toho pekl… vzdelávacieho ústavu sa začal môj problém prejavovať. Do kolektívu som nezapadol, s ostatnými som sa nerozprával a keď už som sa začal, tak len zato že prehovorili oni a nie ja. Takto sa to vlieklo a ja som tam bol len do počtu. Pár krát sa stalo že keď som nejakú dobu chýbal nik si to nevšimol a myslím si že to nebolo len pár krát. Najlepší príklad toho ako som zapadal bol asi deviatacký večierok na konci roka. Keď skončil program a všetci si dali trochu občerstvenia začal DJ púšťať hudbu(nič čo sa dá počuť pri anime, ale to nehralo rolu) , všetci šli samozrejme tancovať. Napísal som všetci? To nie je presné jeden zelený magor zostal pekne celý večer sedieť so svojou frajerkou a snažil sa zjesť toho čo najviac keď je to už zadarmo(normálne tak pažravý nie som a som, podľa noriem, považovaný za podviživeného). Moja frajerka je malá, čierna, nikam bez nej nejdem a mám ju prehodenú cez rameno. Tým ktorým to nedošlo je to obyčajná kapsička, ktorá je pre mňa najlepšia kamarátka.
+
+Toto by sa pri mne ešte dalo čakať. Veď som blázon do PC takže nejaké to asociálne chovanie je v norme. Problém je ale aj v mojom online živote, keď nad tým rozmýšľam to nie je online život ale proste život, to ostatné sa dá nazývať offline život. Aj online mám problém sa niekam zaradiť. Už som bol na plno miestach pri veľa komunitách. Problém bol že ja som len pozorovateľ a písať sa bojím. Najviac aktívny som na VCH a to tam píšem raz za pol roka jeden príspevok, divím sa že ma tam niekto pozná. A to ešte nehovorím o tom ako je to keď chcem dade skúsiť IRC, väčšinou sa tam len pozriem a to že je tam toľko ľudí ma tak vyľaká že sa okamžite odhlásim. Ešte aj v klanoch v hrách som bol skôr len do počtu, komunikoval som len s tým kto ma prijal + jeden, dvaja čo so mno hrali a nič viac. Keď trebalo dačo zahrať, zahral som ale nepovedal som ani Ň. Jediné miesto kde sa cítim ako člen je Lightning Soft, aj to asi len preto že som sa tam zapojil keď ich tam bolo 2 a pol a Satika64 s jackm som už rok poznal.
+
+A prečo to vlastne píšem? Pretože už ma to sere že som furt sám. Neviem prečo som to písal práve sem, možno som čakal že mi pri tom poradí vyššia moc(boh, Buddha, Suzumiya Haruhi…), možno som čakal že mi poradí niekto kto to tu číta. No uvidí sa. Dušu som si vylial môžem ísť robiť niečo zmysluplné ako hrať Minecraft.

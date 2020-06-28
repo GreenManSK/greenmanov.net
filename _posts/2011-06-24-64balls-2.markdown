@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "64Balls 2"
+date:   2011-06-24 08:08:00 +0200
+permalink: /2011/64balls-2/
+category: "Hotové hry"
+tags: hry, Lightning Soft
+---
+![64Balls 2](/assets/img/2011/64balls2logo.png)
+
+## O hre
+V hre ide o to, pomocou bublín zničiť loptičky, ktoré poletujú po miestnosti a samozrejme pri tom nazbierať čo najväčšie skóre. Pre vyššie ovládanie hry, ovplyvňuje pohyb loptičiek aj gravitácia myši. Cez hru sa náhodne objavujú bonusy, ktoré by mali aspoň trošku hru vylepšiť. V hre sú dva módy Free a Arcade.
+
+## Obrázky z hry
+
+[![Screen 1](/assets/img/2011/ScreenShot028-288x300.png)](/assets/img/2011/ScreenShot028.png)<br>
+[![Screen 2](/assets/img/2011/ScreenShot029-288x300.png)](/assets/img/2011/ScreenShot029.png)<br>
+[![Screen 2](/assets/img/2011/ScreenShot030-288x300.png)](/assets/img/2011/ScreenShot030.png)
+
+[Stiahnuť 64Balls 2](/assets/64balls-2.1.exe)
+
+## Kto čo robil?
+
+Program a grafika: GreenMan
+Testovanie: Satik64, GreenMan
