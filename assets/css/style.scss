@@ -91,6 +91,22 @@ main.main-content {
     }
   }
 
+  table {
+    margin: 0 auto;
+    display: table;
+    width: auto;
+
+    thead {
+      background: $text-color;
+      color: $background-color;
+      text-align: left;
+    }
+
+    tbody {
+      background: $background-lighter-color;
+    }
+  }
+
   #youtube-player {
     display: block;
     margin: 0 auto;
@@ -124,6 +140,10 @@ main.main-content {
 
     .blog-entry-footer {
       clear: both;
+
+      p {
+        text-align: left;
+      }
 
       span {
         margin-right: .5rem;

@@ -106,4 +106,115 @@ trillian-najlepsi-klient-na-chatovanie:
     avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
     comment: "Takže som samozrejme zabudol na screen. 😀 Hneď bude pridaný."
     date: 2011-11-08 16:55:00 +0200
-
+zeleny-novy-rok:
+  - name: Doc. Odine
+    avatar: https://secure.gravatar.com/avatar/6742e2f23d40671f97acc44bba530848?s=60&d=mm&r=x
+    comment: "Tak s tim prvnim predsevzetim naprosto souhlasim 🙂 Jinak preju vsechno nejlepsi a mnoho uspechu do noveho roku!"
+    date: 2012-01-01 09:54:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Ďakujem 🙂"
+    date: 2012-01-01 16:54:00 +0200
+wordpress-web-na-iphone:
+  - name: jackm
+    avatar: https://secure.gravatar.com/avatar/59d5de499b365d3a09dc3960e3dbcc8d?s=60&d=mm&r=x
+    comment: "Děkuju, jdu si to dát na svůj WP blog."
+    date: 2012-01-10 20:49:00 +0200
+  - name: Ondro
+    avatar: https://secure.gravatar.com/avatar/b2dac7f6e90a94438447b097c7148806?s=60&d=mm&r=x
+    comment: "Funguje to aj na Androide,Palm,BlackBerry. Je to aj napisane hned v prvom odstavci na tej stranke WPtouch co si postoval v clanku."
+    date: 2012-01-10 22:50:00 +0200
+  - name: Doc. Odine
+    avatar: https://secure.gravatar.com/avatar/6742e2f23d40671f97acc44bba530848?s=60&d=mm&r=x
+    comment: "Jsem rad, ze si toho i nekdo vsiml 🙂 Tu mobilni verzi Konaty jsme tam dali uz docela davno, ale vyuziva (a vi o tom) celkem malo lidi. Protoze s tou instalaci byly trochu problemy, tak prihodim par postrehu co si pamatuju. Treba to nekomu pomuze vyresit nejaky pripadny problem.<br><br>Defaultne to funguje pro iOS a nekolik dalsich, ale neni to zaple treba pro defaultni prohlizec na WinMobile nebo pro Operu. Hodne lidi to pouziva, tak doporucuju upravit prislusne body v nastaveni. Staci tam pridat user agent radky pro co chcete, plugin to potom podle toho prepne.<br><br>Pokud pouzivate ve WP jako hlavni stranku defaultni WP prehled novych clanku, tak je to v pohode a vsechno asi funguje. Pokud ne a mate tam svoji vlastni upravenou stranku (jako to je na Konate), tak mate trochu problem a WPtouch asi nebude fungovat hned po nainstalovani. Po trose hledani se mi ale podarilo upravit v tom pluginu prislusne theme soubory a rozjet to, takze pokud se alespon trochu orientujete v php, tak neveste hlavu, zprovoznit to urcite jde."
+    date: 2012-02-04 10:29:00 +0200
+facebook-vizitky:
+  - name: vizitky
+    avatar: https://secure.gravatar.com/avatar/b1ccd07f7e18e4877e3fafd50c56bec2?s=60&d=mm&r=x
+    comment: "pocuj ako potvrdim obj vizitiek???stale to chce odomna udaje na kreditne karty a ine blbosti.za skoru odpoved diky"
+    date: 2012-01-25 18:58:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Keď si objednáš 50 Facebook vizitiek a zlvolíš poštovné zdarma, tak by to nemalo chcieť kreditnú kartu. Si si istý, že máš zvolenú variantu zadarmo?"
+    date: 2012-01-25 22:58:00 +0200
+  - name: vizitky
+    avatar: https://secure.gravatar.com/avatar/b1ccd07f7e18e4877e3fafd50c56bec2?s=60&d=mm&r=x
+    comment: "urcite ano ale taku moznost ze postovne zdarma tam nemam"
+    date: 2012-01-26 16:57:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Pozerám verziu us aj uk a v oboch mi tú možnosť dáva. Zdarma je shipping Standard. Aspoň u mňa."
+    date: 2012-01-26 18:10:00 +0200
+  - name: vizitky
+    avatar: https://secure.gravatar.com/avatar/b1ccd07f7e18e4877e3fafd50c56bec2?s=60&d=mm&r=x
+    comment: "Shipping mam len EXPRESS alebo Standart"
+    date: 2012-01-26 17:03:00 +0200
+  - name: Tulák
+    avatar: https://secure.gravatar.com/avatar/b1ccd07f7e18e4877e3fafd50c56bec2?s=60&d=mm&r=x
+    comment: "ako može niekto odpovedat na druheho o hodinu skvor ako mu ten polozi otazku…hmm..asi prechadzanie časopriestorom 🙂"
+    date: 2012-04-09 21:17:00 +0200
+piatkovy-report-1:
+  - name: mSamyel
+    avatar: https://secure.gravatar.com/avatar/634ddd6c272c718f45ae59116ec51289?s=60&d=mm&r=x
+    comment: "hezkej a vyčerpávající článek 😀 Snad budeš mít za tejden ještě o čem psát 😀 Denpa Onna to Seishun Otoko je supr 🙂"
+    date: 2012-02-03 22:47:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Ono sa vždy niečo nájde, len treba vymyslieť ako o tom ten článok napísať 😀"
+    date: 2012-02-03 22:52:00 +0200
+  - name: Zipo
+    avatar: https://secure.gravatar.com/avatar/93d94444fe0698ebda4f98ac93a59397?s=60&d=mm&r=x
+    comment: "Na Angel Beats si dal 9/10 lebo si prinom neplakal ako pri clannade ? 😀"
+    date: 2012-02-06 08:34:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Nebol tak epický dokonca ani Haruhi nemám 10, ale 9. Len film sa dokázal dostať na 10 😀"
+    date: 2012-02-06 16:58:00 +0200
+piatkovy-report-2:
+  - name: Tulák
+    avatar: https://secure.gravatar.com/avatar/8877832b5ed050e949a48f0b72bc780a?s=60&d=mm&r=x
+    comment: "Plánujem si nájsť peknú (a už som tam videl „babu“ a ty) kopu úloh 😀"
+    date: 2012-04-08 22:47:00 +0200
+socialny-experiment:
+  - name: Druid
+    avatar: https://secure.gravatar.com/avatar/8877832b5ed050e949a48f0b72bc780a?s=60&d=mm&r=x
+    comment: "Lol! Perfektni clanek! Jo. Skoro jako pribeh z anime. Z nejakej klasickej haremovky. Spis ova nez serie. Ale kdo vi… 😀"
+    date: 2012-03-16 22:07:00 +0200
+  - name: Amy
+    avatar: https://secure.gravatar.com/avatar/8877832b5ed050e949a48f0b72bc780a?s=60&d=mm&r=x
+    comment: "no Luky 😀 dobrý experiment 😀 …. daco je mi na nom povedome 😀"
+    date: 2012-03-17 20:45:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "To bude len náhoda 😀"
+    date: 2012-03-17 21:51:00 +0200
+  - name: Tulák
+    avatar: https://secure.gravatar.com/avatar/8877832b5ed050e949a48f0b72bc780a?s=60&d=mm&r=x
+    comment: "zaujímave,velmi…touto skusenostou si ma prekonal 😉"
+    date: 2012-04-08 11:40:00 +0200
+  - name: McKarlos
+    avatar: https://secure.gravatar.com/avatar/10990da40df4ff3e8bc5ff12fbffc727?s=60&d=mm&r=x
+    comment: "ty seš blázen! xixi"
+    date: 2012-07-18 10:51:00 +0200
+piatkovy-report-3:
+  - name: Tulák
+    avatar: https://secure.gravatar.com/avatar/8877832b5ed050e949a48f0b72bc780a?s=60&d=mm&r=x
+    comment: "maš tu chybu nad „Pridaj komentár“ máš „Zidelať“ namiesto „Zdielať“ ináč v poho,už sa teším na ďalší článok 😉"
+    date: 2012-04-08 13:06:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Ďakujem za upozornenie. Divné, že som si to nevšimol za tú dobu, čo to tam je."
+    date: 2012-04-08 16:13:00 +0200
+piatkovy-report-4:
+  - name: matteas
+    avatar: https://secure.gravatar.com/avatar/d8bf2f1c472ebb493ef554ae3e29cc6a?s=60&d=mm&r=x
+    comment: "Moe není nikdy nadbytek. Škoda, že jej nemůžu zahrnout do své semestrálky na programování XD"
+    date: 2012-05-04 22:34:00 +0200
+  - name: Zipo
+    avatar: https://secure.gravatar.com/avatar/691b5151d36f9db5bf5d83301d8ff523?s=60&d=mm&r=x
+    comment: "heh až nato že z zimnej si kukal 3 alebo 4 anime 😀 tunák v jarnej ich máš okolo 7 :D:D"
+    date: 2012-05-04 23:00:00 +0200
+  - name: GreenMan
+    avatar: https://secure.gravatar.com/avatar/95cdba31a4b18a7162eb8e703841c62d?s=60&d=mm&r=x
+    comment: "Zimná – 9, jarná – 12. 😀"
+    date: 2012-05-05 09:39:00 +0200
